@@ -1,0 +1,44 @@
+D:\C# Projects\Grifindo Toys\Grifindo Toys\bin\Debug\Grifindo Toys.exe.config
+D:\C# Projects\Grifindo Toys\Grifindo Toys\bin\Debug\Grifindo Toys.exe
+D:\C# Projects\Grifindo Toys\Grifindo Toys\bin\Debug\Grifindo Toys.pdb
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.csproj.AssemblyReference.cache
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Form1.resources
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Properties.Resources.resources
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.csproj.GenerateResource.cache
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.csproj.CoreCompileInputs.cache
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.exe
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.pdb
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Forget_Password.resources
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Admin_Dashboard.resources
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Employee_Dashboard.resources
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Employee_Registration.resources
+D:\C# Projects\Grifindo Toys\Grifindo Toys\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\C# Projects\Grifindo Toys\Grifindo Toys\bin\Debug\System.Security.AccessControl.dll
+D:\C# Projects\Grifindo Toys\Grifindo Toys\bin\Debug\System.Security.Permissions.dll
+D:\C# Projects\Grifindo Toys\Grifindo Toys\bin\Debug\System.Security.Principal.Windows.dll
+D:\C# Projects\Grifindo Toys\Grifindo Toys\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\C# Projects\Grifindo Toys\Grifindo Toys\bin\Debug\System.Security.AccessControl.xml
+D:\C# Projects\Grifindo Toys\Grifindo Toys\bin\Debug\System.Security.Permissions.xml
+D:\C# Projects\Grifindo Toys\Grifindo Toys\bin\Debug\System.Security.Principal.Windows.xml
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.csproj.CopyComplete
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.ChangeSalary.resources
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Employee.resources
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Salary.resources
+D:\C# Projects\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Settings.resources
+H:\Grifindo Toys\Grifindo Toys\bin\Debug\Grifindo Toys.exe.config
+H:\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.exe
+H:\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.pdb
+H:\Grifindo Toys\Grifindo Toys\bin\Debug\Grifindo Toys.exe
+H:\Grifindo Toys\Grifindo Toys\bin\Debug\Grifindo Toys.pdb
+H:\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.csprojResolveAssemblyReference.cache
+H:\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Admin_Dashboard.resources
+H:\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.ChangeSalary.resources
+H:\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Employee.resources
+H:\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Employee_Dashboard.resources
+H:\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Employee_Registration.resources
+H:\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Forget_Password.resources
+H:\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Form1.resources
+H:\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Properties.Resources.resources
+H:\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Salary.resources
+H:\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo_Toys.Settings.resources
+H:\Grifindo Toys\Grifindo Toys\obj\Debug\Grifindo Toys.csproj.GenerateResource.Cache
